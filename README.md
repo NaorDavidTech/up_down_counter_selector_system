@@ -1,4 +1,4 @@
-
+2
 
 # 🔁 Up/Down Counter Selector System (Verilog)
 
